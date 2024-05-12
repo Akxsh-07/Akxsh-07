@@ -5,4 +5,4 @@ AI & Data Science Engineer Student
 - 👯 I’m looking to collaborate on real-life projects
 - 🤔 I’m looking for help with internships in South India
 - 📫 Reach out to me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) [<img src="https://img.shields.io/badge/just%20the%20message-E1306C" />](https://www.instagram.com/akxsh.07/)
