@@ -1,5 +1,5 @@
 ### Hi there 👋 It's me Akash
-AI & Data Science Engineer Student
+AI & Data Science Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on real-life projects
