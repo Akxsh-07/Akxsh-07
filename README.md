@@ -1,6 +1,6 @@
 ### Hi there 👋 It's me Akash
 AI & Data Science Engineer Student
-<div style="width:100%;height:0;padding-bottom:115%;position:relative;"><iframe src="https://giphy.com/embed/jFzojLrYSgJlGUuwq9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/work-search-desk-jFzojLrYSgJlGUuwq9">via GIPHY</a></p>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!--
 **Akxsh-07/Akxsh-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
