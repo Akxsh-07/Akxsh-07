@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 It's me Akash
+AI & Data Science Engineer Student
+<img align="right" width="370" height="290" src="https://giphy.com/embed/jFzojLrYSgJlGUuwq9">
 <!--
 **Akxsh-07/Akxsh-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
