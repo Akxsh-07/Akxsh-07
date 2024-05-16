@@ -13,3 +13,4 @@ AI & Data Science Engineering Student
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/akxshk07?theme=dark&font=Martel%20Sans&ext=activity)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akxsh-07&bg_color=000000&color=ffffff&line=00ff1e&point=bababa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
